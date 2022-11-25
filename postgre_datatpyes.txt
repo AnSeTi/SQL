@@ -32,7 +32,7 @@ polygon	 									.							düzlemde kapalı geometrik yol
 real										float4						tek duyarlıklı kayan noktalı sayı (4 bayt)
 smallint									int2						iki baytlık tamsayı
 smallserial									serial2						otomatik artan iki baytlık tamsayı
-serial										serial4						otomatik artan dört baytlık tamsayı
+serial										serial4						otomatik artan dört baytlık tamsayı.
 text	 									.							değişken uzunluklu karakter dizisi
 time [ (p) ] [ without time zone ]	 		.							günün saati (zaman dilimi yok)
 time [ (p) ] with time zone					timetz						saat dilimi dahil günün saati
